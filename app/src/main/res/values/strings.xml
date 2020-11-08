@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mvc-example</string>
+
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Sign_in_0r_egister"><b>Sign in</b> or register</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Success"><b>Success</b></string>
+</resources>
